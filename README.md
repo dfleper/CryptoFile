@@ -51,6 +51,8 @@
 
 ## Video / Video
 
+https://github.com/dfleper/CryptoFile/assets/124105822/ab72aebd-c6b4-4d8f-a2a0-aaf0314870e9
+
 ## Requirements / Requisitos
 #### 🛠 [Visual Studio Code](https://code.visualstudio.com/) 
 #### 🛠 [Node](https://nodejs.org/) 
